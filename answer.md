@@ -46,9 +46,8 @@ v-for
 13. How we can handling input in vue ?
 14. What is props describe it ?
 15. What is component in vue ?
-komponen merupakan tag html yang bisa digunakan berulang kali yang memiliki lifecycle yang sama
+<br />komponen merupakan tag html yang bisa digunakan berulang kali yang memiliki lifecycle yang sama
 16. How to pass property from parent component to child component ?
 
 17. What is Vuex ?
-
 </br> library vue js yang digunakan untuk menghadle statement dan saling memberikan data
