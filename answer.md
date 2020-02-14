@@ -1,4 +1,4 @@
-## jawaban pre-test
+# jawaban pre-test
 1. What do you know about Vue ?
 <br /> Vue merupakan framework javascript yang bertujuan untuk mendesign tampilan suatu website dari awal. dengan menambahkan fungsi fungsionalitas terhadap suatu tag html 
 2. How to define data in Vue ?
@@ -45,6 +45,7 @@ v-for
 12. If we rendering list there must be bind key tag describe usage of it ?
 13. How we can handling input in vue ?
 14. What is props describe it ?
+<br /> properti digunakan sebagai pelengkap dari sebuah tag html
 15. What is component in vue ?
 <br />komponen merupakan tag html yang bisa digunakan berulang kali yang memiliki lifecycle yang sama
 16. How to pass property from parent component to child component ?
