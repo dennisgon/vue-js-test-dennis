@@ -43,12 +43,14 @@ v-if
 v-for
 ```
 12. If we rendering list there must be bind key tag describe usage of it ?
+<br /> - 
 13. How we can handling input in vue ?
+<br /> - 
 14. What is props describe it ?
 <br /> properti digunakan sebagai pelengkap dari sebuah tag html
 15. What is component in vue ?
 <br />komponen merupakan tag html yang bisa digunakan berulang kali yang memiliki lifecycle yang sama
 16. How to pass property from parent component to child component ?
-
+<br /> -
 17. What is Vuex ?
 </br> library vue js yang digunakan untuk menghadle statement dan saling memberikan data
